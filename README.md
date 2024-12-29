@@ -26,7 +26,7 @@ Este repositório foi criado para acompanhar o meu progresso no aprendizado de *
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/alissonmirandadeveloper/Umedy-Java-Nelio-Alves-POO.git
-   cd java-poo-progresso
+   cd Umedy-Java-Nelio-Alves-POO-main
    ```
 
 2. **Explore os arquivos:** Cada pasta e arquivo representa um tópico ou exercício do curso.
